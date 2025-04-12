@@ -18,9 +18,11 @@
     "amarant2/module-framework": "^1.0",
     "amarant2/module-product": "^1.0",
     "amarant2/module-sales": "^1.0",
+    "amarant2/module-sales-customer-pricing": "^1.0",
     "amarant2/module-channel": "^1.0",
     "amarant2/module-ui": "^1.0",
     "amarant2/module-analytics": "^1.0",
+    "amarant2/module-ai": "^1.0",
     "amarant2/theme-hadron": "^1.0",
     "amarant2/theme-lux": "^1.0"
   },
