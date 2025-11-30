@@ -22,6 +22,7 @@
     "amarant2/module-channel": "^1.0",
     "amarant2/module-ui": "^1.0",
     "amarant2/module-analytics": "^1.0",
+    "amarant2/module-sales-analytics": "^1.0",
     "amarant2/module-ai": "^1.0",
     "amarant2/theme-hadron": "^1.0",
     "amarant2/theme-lux": "^1.0"
