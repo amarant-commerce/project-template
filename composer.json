@@ -48,5 +48,13 @@
         "generated/code/"
       ]
     }
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "bash scripts/patches/apply_jasny_patch.sh"
+    ],
+    "post-update-cmd": [
+      "bash scripts/patches/apply_jasny_patch.sh"
+    ]
   }
 }
